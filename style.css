@@ -1,0 +1,10 @@
+* {background-color: rgb(124, 117, 152)}
+
+.navbar {
+    background-color: rgb(124, 117, 152);
+  }
+
+.container #main-navbar {
+    font-size: 18px;
+  }
+  
