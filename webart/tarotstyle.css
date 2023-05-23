@@ -1,8 +1,5 @@
 
 
-.navbar {
-    background-color: rgb(20, 0, 100);
-  }
 
 .container #main-navbar {
     font-size: 18px;
@@ -16,7 +13,4 @@
     padding-left: 0.1em;
     font-family: Georgia, serif;
     color: #1d003f;
-  }
-  .page-background {
-    background-color: rgb(20, 0, 100)
   }
